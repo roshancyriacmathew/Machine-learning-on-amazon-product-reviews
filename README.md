@@ -1,5 +1,6 @@
 # Machine-learning-on-amazon-product-reviews
 This project involves performing sentiment analysis using machine learning on amazon product reviews dataset. 
+
 The dataset used for the project is obtained from Kaggle and consists of nearly 3000 reviews of amazon users regarding various amazon 
 Alexa products like Alexa echo, Alexa dot etc. Exploratory data analysis is performed on the dataset to analyse various columns and the 
 data is visualized using count plots and pie charts. The reviews are then processed using various methods which involves lowercase conversion, 
